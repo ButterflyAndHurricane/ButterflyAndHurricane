@@ -6,8 +6,11 @@
 - @gunuo
 
 
-- Rina204
+- @Rina204
 
 
 
-- aJiea
+- @aJiea
+    - 内容梳理
+    - 项目包装
+    - Keynote学习和调整
