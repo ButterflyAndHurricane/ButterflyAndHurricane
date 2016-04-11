@@ -28,3 +28,11 @@
     - 内容梳理
     - 项目包装
     - Keynote学习和调整
+
+- @simpleowen
+    - 使用PowerBuilder，自学Python中
+    - 观察项目过程
+    - 学习项目生成
+    - 交流项目内容
+
+
