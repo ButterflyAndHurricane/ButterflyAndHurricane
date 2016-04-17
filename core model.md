@@ -63,3 +63,36 @@
 - 志趣相投，逐成真正好友
 
 [keynote@icloud](https://www.icloud.com/keynote/000NXT6Ua19qUgu0gKyr3fc3g#%E5%A4%A7%E4%BD%9C%E4%B8%9A%E4%B9%8B%E7%86%9F%E6%82%89keynote)
+
+### 竞品分析
+* 1. 知识管理平台，竞品 evernote, zotero
+* 2. 分享链接反馈平台，竞品 pearltree，在行，github，linkedin
+* 集合两者的 蝴蝶和飓风项目 知识管理+输出+分享反馈
+
+* 平台支持 ： PAAS，cloud，mac，windows，安卓，iOS，各大浏览器插件，微信PAAS（最小产品：PAAS+浏览器插件）
+  * PAAS ：人在系统中和平台的交互
+	* 运营 目标群体
+
+- zotero：research sources https://www.zotero.org/support/quick_start_guide
+* collect
+* manage
+* cite
+* share
+* [非汉化]
+
+- 在行：交谈 http://www.zaih.com/
+* 知识技能
+* 共享
+* ［违反阳老师说的教学相长原则］
+
+- pearltree: interests http://www.pearltrees.com/
+* explore
+* organize
+* share
+* [信息是难以量化和追踪的，按网站分类也不是一个好办法，因为只有社交信息才会固定在某个网站发布，文章则多数会转载]
+
+- linkedin：professionals http://www.linkedin.com/about-us?trk=hp-about
+* connect
+* productive
+* successful
+* [完全的垃圾网站，现在沦为猎头们打电话的地方，没有成功的输出，只有零星的几篇网站运营的人发的成功人士的报道]
